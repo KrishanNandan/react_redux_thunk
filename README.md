@@ -1,6 +1,6 @@
 # "React Redux Toolkit for Beginners"
 
-### 7 Chapters
+### ~~7~~ 8 Chapters
 
 ---
 
@@ -14,8 +14,12 @@
 
 ☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
 
-🚀 Follow Me:
+📬 [Course Updates](https://bit.ly/3q2FKjt)
 
+🚀 [Discord](https://discord.gg/neKghyefqh)
+
+
+👇 Follow Me:
 - [Twitter](https://twitter.com/yesdavidgray)
 - [LinkedIn](https://www.linkedin.com/in/davidagray/)
 - [Blog](https://yesdavidgray.com)
@@ -52,7 +56,6 @@
 ### ⚙ VS Code Extensions I Use:
 
 - 🔗 [ES7 React JS Snippets Extension](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-- 🔗 [Prettier VS Code Extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - 🔗 [vscode-icons VS Code Extension](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - 🔗 [Github Themes VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
@@ -73,5 +76,6 @@
 - 🔗 [Chapter 6 Completed Code - RTK Query](https://github.com/gitdagray/react_redux_toolkit/tree/main/06_lesson)
 - 🔗 [Chapter 7 Starter Code - Advanced Redux Blog](https://github.com/gitdagray/react_redux_toolkit/tree/main/07_lesson_starter)
 - 🔗 [Chapter 7 Completed Code - Advanced Redux Blog](https://github.com/gitdagray/react_redux_toolkit/tree/main/07_lesson)
-
-
+  
+🚩🚩🚩
+- 🔗 [Chapter 8 - Blog Project with full RTK Query Refactor](https://github.com/gitdagray/react_redux_toolkit/tree/main/08_lesson)
